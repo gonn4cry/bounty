@@ -1,4 +1,4 @@
-# Bug Bounty Hunting ChackList 📚
+# Bug Bounty Hunting CheckList 📚
 
 Make Critical Great Again
 
