@@ -1,23 +1,5 @@
 # **Bug Bounty Checklist for Web App**
 
-## **Table of Contents**
-
-- [ ] [Recon on wildcard domain](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#%22Recon\_on\_wildcard\_domain%22)
-- [ ] [Single domain](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Single\_domain)
-- [ ] [Information Gathering](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Information)
-- [ ] [Configuration Management](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Configuration)
-- [ ] [Secure Transmission](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Transmission)
-- [ ] [Authentication](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Authentication)
-- [ ] [Session Management](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Session)
-- [ ] [Authorization](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Authorization)
-- [ ] [Data Validation](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Validation)
-- [ ] [Denial of Service](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Denial)
-- [ ] [Business Logic](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Business)
-- [ ] [Cryptography](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Cryptography)
-- [ ] [Risky Functionality - File Uploads](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#File)
-- [ ] [Risky Functionality - Card Payment](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#Card)
-- [ ] [HTML 5](https://github.com/sehno/Bug-bounty/blob/master/bugbounty\_checklist.md#HTML)
-
 ## **Recon on wildcard domain**
 
 - [ ] Run amass
